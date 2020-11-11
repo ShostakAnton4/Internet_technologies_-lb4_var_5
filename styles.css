@@ -1,0 +1,17 @@
+.calculate-form {
+    width: 460px;
+    height: 100px;
+}
+
+div.row {
+    display: flex;
+    align-items: center;
+}
+
+h3.error-text{
+	color:red;
+}
+
+input.submit_form {
+    margin-left: 5px;
+}
